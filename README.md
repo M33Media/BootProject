@@ -1,7 +1,7 @@
 Boot Project
 ===========
 
-Bootproject contains various projekts for the Boot framework.
+Bootproject contains various projects for the Boot framework.
 
 ## Boot.Multitenancy
 Nnhibernate session manager. Multidomain management. Multiple databases in same application thrue sessionmanagement. Easy configuration in web.config or adding tentans by code.
